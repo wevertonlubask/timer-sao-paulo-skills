@@ -8,15 +8,28 @@ Sistema profissional de cronometragem para competições WorldSkills e SENAI, co
 [![Vite](https://img.shields.io/badge/Vite-5-purple.svg)](https://vitejs.dev/)
 
 ## 📸 Screenshots
+<img width="1629" height="795" alt="timer_3" src="https://github.com/user-attachments/assets/78a4ff94-2642-491c-8fbc-1f214f7744a6" />
+<img width="1640" height="640" alt="timer_4" src="https://github.com/user-attachments/assets/8cfa514d-c05a-4ef9-949f-fe1639e188f8" />
+<img width="1625" height="698" alt="timer_5" src="https://github.com/user-attachments/assets/1dbc9305-9c7f-4031-9405-b7f8befc9cff" />
+<img width="1919" height="1079" alt="timer_7" src="https://github.com/user-attachments/assets/64dcb104-b461-4b84-9419-5c81fa6231e2" />
+<img width="1907" height="931" alt="timer_8" src="https://github.com/user-attachments/assets/7873cd19-075a-44f9-bd85-594bef6a1605" />
+<img width="1919" height="1079" alt="timer_9" src="https://github.com/user-attachments/assets/5660b1b0-0700-4da3-93bc-c4ca09245963" />
 
 ### Tela de Configuração
 Interface intuitiva para configurar competição, duração e competidores.
 
+<img width="1165" height="852" alt="timer_2" src="https://github.com/user-attachments/assets/f463525f-3722-4819-a3ff-a7a70062812b" />
+
 ### Painel Administrativo
 Controle total sobre cronômetros gerais e individuais.
 
+<img width="1170" height="721" alt="timer_1" src="https://github.com/user-attachments/assets/f23f6db4-06a7-4f96-b05c-8141092bc914" />
+
+
 ### Telão (Display)
 Visualização profissional para projetores com sincronização automática.
+
+<img width="1917" height="1079" alt="timer_6" src="https://github.com/user-attachments/assets/94e8ace9-21a7-4e9f-9b1d-c10f40f6d2f4" />
 
 ## ✨ Funcionalidades
 
