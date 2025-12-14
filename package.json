@@ -1,7 +1,7 @@
 {
-  "name": "competition-timer",
+  "name": "sp-skills-timer",
   "private": true,
-  "version": "2.1.0",
+  "version": "3.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,6 +10,8 @@
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.1",
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
