@@ -1,6 +1,22 @@
 # SP Skills Timer ⏱️
 
-Sistema de cronometragem para competições SP Skills, desenvolvido em React com interface moderna e exportação de relatórios em PDF.
+Sistema profissional de cronometragem para competições WorldSkills e SENAI, com suporte a múltiplos competidores, pausas individuais, tempo extra e sincronização em tempo real com telão.
+
+[![Version](https://img.shields.io/badge/version-2.3.2-blue.svg)](https://github.com/seu-usuario/competition-timer/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-purple.svg)](https://vitejs.dev/)
+
+## 📸 Screenshots
+
+### Tela de Configuração
+Interface intuitiva para configurar competição, duração e competidores.
+
+### Painel Administrativo
+Controle total sobre cronômetros gerais e individuais.
+
+### Telão (Display)
+Visualização profissional para projetores com sincronização automática.
 
 ## ✨ Funcionalidades
 
